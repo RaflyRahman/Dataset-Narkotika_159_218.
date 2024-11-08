@@ -1,7 +1,3 @@
-Baik, berikut ini adalah README yang dirombak agar sesuai dengan contoh data di *Overview.xlsx* yang Anda unggah:
-
----
-
 # 📂 **Dataset Analisis Kasus Hukum: Narkotika dan Psikotropika di Indonesia**
 
 Selamat datang di repositori **Analisis Kasus Hukum: Narkotika dan Psikotropika**! 🎉 Di sini kami menghadirkan kumpulan data **putusan pengadilan khusus** yang relevan dalam konteks hukum pidana narkotika dan psikotropika di Indonesia. Dataset ini disusun sebagai bagian dari tugas UTS mata kuliah **Temu Kembali Informasi**.
